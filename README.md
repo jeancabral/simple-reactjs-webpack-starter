@@ -1,8 +1,8 @@
 # Simple ReactJS WebPack Starter Project
 
-[En] A simple setup for ReajtJS from scratch with Babel, Webpack and Webpack Dev Server with ESLint, EditorConfig and Prettier tools
+A simple setup for ReajtJS from scratch with Babel, Webpack and Webpack Dev Server with ESLint, EditorConfig and Prettier tools
 
-[PT-Br] Um simples setup para ReactJS do zero com Babel, Webpack e Webpack Dev Server com as ferramentas ESLint, EditorConfig e Prettier
+Um simples setup para ReactJS do zero com Babel, Webpack e Webpack Dev Server com as ferramentas ESLint, EditorConfig e Prettier
 
 ### :pencil: YARN Scripts
 
